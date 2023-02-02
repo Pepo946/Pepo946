@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Gandoul</h1>
-<h3 align="center">A Student of Web developer from Morocco</h3>
+<h3 align="center">A Student of Web development from Morocco</h3>
 
 - 🌱 I’m currently learning **JavaScript,SQL ,PHP ,CSS ,HTML**
 

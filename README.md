@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **JavaScript,SQL ,PHP ,CSS ,HTML**
 
-- 💬 Ask me about **CSS ,HTML**
+- 💬 Ask me about **CSS ,HTML , Bootstrap , SQL**
 
 - 📫 How to reach me **mohamedgandoul@gmail.com**
 

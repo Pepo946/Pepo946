@@ -1,8 +1,3 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
-
 ## <div align="center">Hi 👋, I'm Mohamed Gandoul (Pepo)
  Junior full-stack developer/UI & UX 👨‍💻 </div>  
   
@@ -134,12 +129,8 @@
             </a></div>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=pepo946&show_icons=true&locale=en" alt="pepo946" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pepo946&" alt="pepo946" /></p>
 
 
 

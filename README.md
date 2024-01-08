@@ -1,3 +1,8 @@
+<div align="center">
+<img src="" align="center" style="width: 100%" />
+</div>  
+  
+
 ## <div align="center">Hi 👋, I'm Mohamed Gandoul (Pepo)
  Junior full-stack developer/UI & UX 👨‍💻 </div>  
   
@@ -13,8 +18,6 @@
 
 - ⚡ Fun fact: I use tabs over spaces  
   
-
-![Listening to on Spotify]([[https://spotify-github-profile.vercel.app/api/view.svg?uid=3145jg5qcxh2nyzickndw72d7lmy&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=3145jg5qcxh2nyzickndw72d7lmy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)  
 
 <br/>  
 
@@ -129,8 +132,5 @@
             </a></div>
 <br />
 
-
-
-
-
-
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>

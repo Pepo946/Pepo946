@@ -114,4 +114,3 @@ Hello, I am Mohamed Gandoul,  I am a student currently studying for a two-year d
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>

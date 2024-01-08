@@ -45,7 +45,7 @@ Hello, I am Mohamed Gandoul,  I am a student currently studying for a two-year d
 - ⚡ Fun fact: I use tabs over spaces  
 
 
-</td><td valign="top" width="50%">
+
 
 <div align="center">
 <img src="" align="center" style="width: 100%" />

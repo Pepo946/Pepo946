@@ -32,7 +32,6 @@ Hello, I am Mohamed Gandoul,  I am a student currently studying for a two-year d
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
 
 - 📫 How to reach me mohamedgandoul@gmail.com  
   

@@ -1,22 +1,22 @@
 ## Hey 👋, I'm Mohamad Gandoul (Pepo)  
   
 
-<a href="https://dev.to/https://dev.to/pepo946" target="_blank">
+<a href="[https://dev.to/https://dev.to/pepo946](https://dev.to/pepo946)" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-gandoul-53a5ba258/" target="_blank">
+<a href="[https://linkedin.com/in/https://www.linkedin.com/in/mohamed-gandoul-53a5ba258/](https://www.linkedin.com/in/mohamed-gandoul-53a5ba258/)" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/@pepo9449" target="_blank">
+<a href="[https://instagram.com/@pepo9449](https://www.instagram.com/pepo9449/)" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://dribbble.com/https://dribbble.com/Pepo946" target="_blank">
+<a href="[https://dribbble.com/https://dribbble.com/Pepo946](https://dribbble.com/Pepo946)" target="_blank">
 <img src=https://img.shields.io/badge/dribbble-%23E45285.svg?&style=for-the-badge&logo=dribbble&logoColor=white alt=dribbble style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/@Pepo946" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.behance.net/https://www.behance.net/mohamadgandoul" target="_blank">
+<a href="[https://www.behance.net/https://www.behance.net/mohamadgandoul](https://www.behance.net/mohamadgandoul)" target="_blank">
 <img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
 </a>  
   
@@ -40,10 +40,10 @@ Hello, I am Mohamed Gandoul,  I am a student currently studying for a two-year d
 - 🌱 I’m currently learning React / Laravel and UI &UX  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to HTML CSS JS JQ BOOTSTRAP UI/UX  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: pepo = happy :)  
 
 
 <br/>  
@@ -83,11 +83,11 @@ Hello, I am Mohamed Gandoul,  I am a student currently studying for a two-year d
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="60%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Pepo946&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="60%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pepo946&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
@@ -96,16 +96,11 @@ Hello, I am Mohamed Gandoul,  I am a student currently studying for a two-year d
 <br/>  
 
   
-
 <br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=Pepo946&&style=flat-square)  
   
-
 <br/>  
-
-<div align="left">
-            <a href="https://paypal.me/@mohamadgandoul" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
                     align="left"

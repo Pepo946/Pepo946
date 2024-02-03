@@ -82,4 +82,4 @@ Hello, I am Mohamed Gandoul, a student currently studying for a two-year diploma
 <br />
 
 [instagram]: https://www.instagram.com/pepo9449/
-[linkedin]: https://www.linkedin.com/in/mohamedgandoul/
+[linkedin]: https://www.linkedin.com/in/MohamedGandoul/

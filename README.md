@@ -26,7 +26,7 @@ Hello, I am Mohamed Gandoul, a student currently studying for a two-year diploma
 
 ### Connect with me:
 
-[<img align="left" alt="pepo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="mohamedgandoul | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="pepo | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
@@ -82,4 +82,4 @@ Hello, I am Mohamed Gandoul, a student currently studying for a two-year diploma
 <br />
 
 [instagram]: https://www.instagram.com/pepo9449/
-[linkedin]: https://www.linkedin.com/in/mohamed-gandoul/
+[linkedin]: https://www.linkedin.com/in/mohamedgandoul/

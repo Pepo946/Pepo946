@@ -17,6 +17,7 @@ I am also studying UI/UX design to enhance my skills in an area I am passionate 
 I am currently learning German and Japanese. 
 Additionally, I have 5 years of experience in hardware repair, 
 Thank you for reading about my goals :)
+
 ## Rapidfire
 
 - 📫 How to reach me mohamedgandoul@gmail.com

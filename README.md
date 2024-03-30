@@ -11,8 +11,12 @@
 
 ### Glad to see you here!
 
-Hello, I am Mohamed Gandoul, a student currently studying for a two-year diploma Web-Dev  in Information Technology at the Institute located in Morocco (ISTA, OFPPT). My ambition is to complete this degree as a technician specializing in software development and to be a (FULL-STACK DEVELOPER). At the same time, I'm learning UI/UX DESIGN, and I hope to deepen a lot in this field because it is a field that I would very much like to complete. Thank you for reading :)
-
+Hello, I am Mohamed Gandoul, a student at ISTA, OFPPT in Morocco, pursuing a two-year diploma in web development and Information Technology. 
+My aim is to finish this program and become a software development technician, aspiring to work as a Junior Full-Stack Developer. 
+I am also studying UI/UX design to enhance my skills in an area I am passionate about.  
+I am currently learning German and Japanese. 
+Additionally, I have 5 years of experience in hardware repair, 
+Thank you for reading about my goals :)
 ## Rapidfire
 
 - 📫 How to reach me mohamedgandoul@gmail.com

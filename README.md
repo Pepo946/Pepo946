@@ -11,13 +11,15 @@
 
 ### Glad to see you here!
 
-Hello, I am Mohamed Gandoul, a student at ISTA, OFPPT in Morocco, pursuing a two-year diploma in web development and Information Technology. 
-My aim is to finish this program and become a software development technician, aspiring to work as a Junior Full-Stack Developer. 
-I am also studying UI/UX design to enhance my skills in an area I am passionate about.  
-I am currently learning German and Japanese. 
-Additionally, I have 5 years of experience in hardware repair, 
-Thank you for reading about my goals :)
+Hey :)
 
+I'm Mohamed Gandoul, a Junior Web Developer and UI Designer. I recently graduated from OFPPT with a Bac+2 diploma in web development and Information Technology.
+
+I'm an active language learner, focusing on German (B1), Japanese (N5), and Romanian (A1). I’m proficient in six languages, continually improving my communication skills.
+
+With over 5 years of experience in hardware and software support, I bring strong technical troubleshooting abilities. My main focus is IT, though I also have a basic understanding of UI/UX design, allowing me to contribute to design projects.
+
+Thanks for taking the time to learn about my goals. I'm eager to apply my skills and knowledge in a professional IT setting.
 ## Rapidfire
 
 - 📫 How to reach me mohamedgandoul@gmail.com

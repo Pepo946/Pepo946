@@ -27,9 +27,6 @@ Thanks for taking the time to learn about my goals. I'm eager to apply my skills
 - ❓ Ask me about anything related to HTML CSS JS JQ BOOTSTRAP UI/UX
 - ⚡ Fun fact: pepo = happy :)
 
-### Spotify Playing 🎧
-
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view.svg?uid=3145jg5qcxh2nyzickndw72d7lmy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)
 
 ### Connect with me:
 

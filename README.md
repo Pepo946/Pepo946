@@ -1,4 +1,4 @@
-## Hey 👋, I'm Mohamad Gandoul (Pepo)
+## Hey 👋, I'm Mohamad Gandoul (モハメッド ガンドゥール)
 
 
 ## Profile views
@@ -11,15 +11,14 @@
 
 ### Glad to see you here!
 
-Hey :)
+Hey there! 😊
+I’m Mohamed, a Junior Web Developer and IT Support Specialist who’s passionate about all things tech. I recently graduated from OFPPT with a Bac+2 diploma in Web Development and IT, and I’m always looking for opportunities to grow and learn.
 
-I'm Mohamed Gandoul, a Junior Web Developer and UI Designer. I recently graduated from OFPPT with a Bac+2 diploma in web development and Information Technology.
+When I'm not coding or troubleshooting, you’ll find me diving into languages! I’m currently learning German (B1) and Japanese (N5) an some others language's such Spanish Russian Chinese and Bulgarian – not fluent yet, but I’m enjoying the journey of improving my skills every day. 🌍✨
 
-I'm an active language learner, focusing on German (B1), Japanese (N5), and Romanian (A1). I’m proficient in six languages, continually improving my communication skills.
+With over 5 years of experience in hardware and software support, I’m skilled at troubleshooting and resolving technical issues efficiently. IT is my main focus, and I’m excited to continue developing my skills in IT support and web development.
 
-With over 5 years of experience in hardware and software support, I bring strong technical troubleshooting abilities. My main focus is IT, though I also have a basic understanding of UI/UX design, allowing me to contribute to design projects.
-
-Thanks for taking the time to learn about my goals. I'm eager to apply my skills and knowledge in a professional IT setting.
+I’m passionate about continuous learning and ready to take on new challenges to further my career!
 ## Rapidfire
 
 - 📫 How to reach me mohamedgandoul@gmail.com
@@ -86,4 +85,4 @@ Thanks for taking the time to learn about my goals. I'm eager to apply my skills
 <br />
 
 [instagram]: https://www.instagram.com/pepo9449/
-[linkedin]: https://www.linkedin.com/in/MohamedGandoul/
+[linkedin]: https://www.linkedin.com/in/mohamed-gandoul/

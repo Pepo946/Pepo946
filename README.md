@@ -7,7 +7,7 @@
     <img src="https://komarev.com/ghpvc/?username=Pepo946">
 </a>
 
-## a Juior Full-Stack Web Dev and UI UX Desinger
+## Junior Web Developer & Technician / IT Support | Trilingual (Arabic, English, French) & Learning German, Japanese | 5+ Years of Experience in Hardware & Software
 
 ### Glad to see you here!
 

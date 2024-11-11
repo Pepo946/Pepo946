@@ -25,7 +25,7 @@ I’m passionate about continuous learning and ready to take on new challenges t
 - 🌱 **I’m currently learning**: Web dev , IT Support , and diving into advanced German language skills.
 - ❓ **Ask me about**: Anything related to HTML, CSS, JS, jQuery, Bootstrap, Node.js, Express, MySQL, MongoDB, React.js,  Laravel, Python , IT support, troubleshooting, and system optimization.
 - ⚡ **Fun fact**: "Pepo" = happy 🙂, but also, I'm passionate about languages—learning German, Japanese, Spanish, Russian, Chinese, and Bulgarian!
-- 🔧 **Tech I’m currently exploring**: CI/CD pipelines, Docker, and improving my knowledge of Agile/Scrum methodologies for development and project management.
+- 🔧 **Tech I’m currently exploring**: Anythig About Web Dev and IT Support .
 - 🚀 **What drives me**: Solving technical problems, constantly improving my skills.
 - 🌍 **Passion for international opportunities**: Open to new job challenges and experiences in Germany, aiming for an Ausbildung in IT or Web Development by 2026!
 - 🎯 **My Goal**: To leverage my web development and IT support expertise, learn German , and continue building on my 5+ years of tech experience.

@@ -6,7 +6,7 @@
     <img src="https://komarev.com/ghpvc/?username=Pepo946">
 </a>
 
-## Junior Web Developer & Technician / IT Support | Trilingual (Arabic, English, French) & Learning German, Japanese | 5+ Years of Experience in Hardware & Software
+## Junior Web Developer & Technician / IT Support | Trilingual (Arabic, English, French) & Learning German, Japanese | 4+ Years of Experience in Hardware & Software
 
 ### Glad to see you here!
 
@@ -21,10 +21,16 @@ I’m passionate about continuous learning and ready to take on new challenges t
 
 ## Rapidfire
 
-- 📫 How to reach me: mohamedgandoul@gmail.com
-- 🌱 I’m currently learning React / Laravel and UI & UX
-- ❓ Ask me about anything related to HTML, CSS, JS, jQuery, Bootstrap, UI/UX
-- ⚡ Fun fact: pepo = happy :)
+- 📫 **How to reach me**: [mohamedgandoul@gmail.com](mailto:mohamedgandoul@gmail.com)
+- 🌱 **I’m currently learning**: React, Laravel, UI/UX Design, and diving into advanced German language skills.
+- ❓ **Ask me about**: Anything related to HTML, CSS, JS, jQuery, Bootstrap, Node.js, Express, MySQL, MongoDB, React.js, Vue.js, Laravel, Python (Flask/Django), IT support, troubleshooting, and system optimization.
+- ⚡ **Fun fact**: "Pepo" = happy 🙂, but also, I'm passionate about languages—learning German, Japanese, Spanish, Russian, Chinese, and Bulgarian!
+- 🔧 **Tech I’m currently exploring**: CI/CD pipelines, Docker, and improving my knowledge of Agile/Scrum methodologies for development and project management.
+- 🚀 **What drives me**: Solving complex technical problems, constantly improving my skills, and collaborating with teams to create efficient, scalable solutions.
+- 🌍 **Passion for international opportunities**: Open to new job challenges and experiences in Germany, aiming for an Ausbildung in IT or Web Development by 2026!
+- 🎯 **My Goal**: To leverage my web development and IT support expertise, learn German (B1 by December 2024!), and continue building on my 5+ years of tech experience.
+- 💬 **Languages I speak**: Arabic (native), French (fluent), English (fluent), German (B1), and learning Spanish, Russian, Chinese, Japanese, and Bulgarian!
+
 
 ### Connect with me:
 

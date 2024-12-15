@@ -1,7 +1,7 @@
 # Hey 👋, I'm Mohamad Gandoul (モハメッド ガンドゥール)
 
 ## 🚀 Profile Views
-<a href="https://github.com/Mohamed Gandoul/github-profile-views-counter">
+<a href="https://github.com/MohamedGandoul/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Pepo946&style=flat-square&color=blue">
 </a>
 
@@ -66,10 +66,10 @@ Hi there! 😊 I'm Mohamed, a Junior Web Developer and IT Support Specialist. Re
 <table>
   <tr>
     <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Mohamed Gandoul&show_icons=true&count_private=true&hide_title=true&hide=prs&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&border_radius=10&theme=radical" />
+      <img src="https://github-readme-stats.vercel.app/api?username=MohamedGandoul&show_icons=true&count_private=true&hide_title=true&hide=prs&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&border_radius=10&theme=radical" />
     </td>
     <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed Gandoul&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&border_radius=10&theme=radical" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedGandoul&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&border_radius=10&theme=radical" />
     </td>
   </tr>
 </table>
